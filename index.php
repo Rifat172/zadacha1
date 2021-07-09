@@ -17,7 +17,7 @@ for($i = 0; $i < $countOfArray; $i++){
         break; 
     }
     else{
-        $endText .= $b[$i]." ";//Объеденяем массив.
+        $endText .= $b[$i]." ";//Объеденяем массив
     }
 }
 echo($endText);
